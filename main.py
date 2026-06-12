@@ -13,11 +13,15 @@ while True:
     print("Enter move: ")
     myMove = input()
     # Make move on virtual board
-    sf.make_moves_from_current_position([myMove])
-    # Let Stockfish move
-    fishMove = sf.get_best_move()
-    print("Stockfish plays ", fishMove)
-    # Make move again
-    sf.make_moves_from_current_position([fishMove])
-    #Show the board
-    print(sf.get_board_visual())
+    try:
+        sf.make_moves_from_current_position([myMove])
+        # Let Stockfish move
+        fishMove = sf.get_best_move()
+        print("Stockfish plays ", fishMove)
+        # Make move again
+        sf.make_moves_from_current_position([fishMove])
+        #Show the board
+        print(sf.get_board_visual())
+    except ValueError:
+        # Handle the exception here
+        print("That move isn't legal, try again!")
