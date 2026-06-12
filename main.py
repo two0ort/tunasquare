@@ -1,8 +1,21 @@
 from stockfish import Stockfish
 
-# Change Stockfish settings
+eloMin = 1320
+eloMax = 3190
+sfElo = 0
+
+# Configuration
+while sfElo < eloMin or sfElo > eloMax:
+    sfElo = int(input("Set Stockfish's Elo: "))
+    if sfElo < eloMin:
+        print("The minimum Elo is 1320.")
+    elif sfElo > eloMax:
+        print("The maximum Elo is 3190.")
+    else:
+        pass
+ 
 sf = Stockfish(path="/home/two0ort/Applications/stockfish/stockfish-ubuntu-x86-64-avx2")
-sf.set_elo_rating(1500)
+sf.set_elo_rating(sfElo)
 
 # Show board
 print(sf.get_board_visual())
