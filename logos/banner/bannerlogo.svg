@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="960"
+   height="540"
+   viewBox="0 0 253.99999 142.875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="bannerlogo.svg"
+   inkscape:export-filename="bannerlogo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0577139"
+     inkscape:cx="491.15361"
+     inkscape:cy="334.68408"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient31"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop31" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop32" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboard"
+       preserveAspectRatio="xMidYMid"
+       id="pattern21"
+       patternTransform="scale(78.2)"
+       x="0"
+       y="0" />
+    <linearGradient
+       id="swatch20"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop20" />
+    </linearGradient>
+    <pattern
+       inkscape:collect="always"
+       style="fill:#000000"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard"
+       inkscape:stockid="Checkerboard"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:label="Checkerboard">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="0"
+   width="1"
+   height="1"
+   id="rect209" />
+
+      <rect
+   style="stroke:none"
+   x="1"
+   y="1"
+   width="1"
+   height="1"
+   id="rect211" />
+
+    </pattern>
+    <rect
+       x="361.82478"
+       y="282.26122"
+       width="874.25204"
+       height="168.59898"
+       id="rect4" />
+    <rect
+       x="277.52529"
+       y="223.53573"
+       width="466.96236"
+       height="174.2821"
+       id="rect3" />
+    <rect
+       x="289.8387"
+       y="249.10973"
+       width="61.567045"
+       height="12.313409"
+       id="rect2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient31"
+       id="linearGradient32"
+       x1="361.65425"
+       y1="357.17383"
+       x2="1141.584"
+       y2="357.17383"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="361.82478"
+       y="282.26122"
+       width="874.25204"
+       height="168.59898"
+       id="rect32" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28469087,0,-0.15209301,0.31224301,-33.588998,-49.764223)"
+       id="text32"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);display:inline;mix-blend-mode:difference;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.51181;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="361.82422"
+         y="388.43359"
+         id="tspan1">Tunasquare</tspan></text>
+    <rect
+       style="display:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect33"
+       width="274.91089"
+       height="153.33975"
+       x="-8.5049782"
+       y="-3.7521961" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.428485;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="225.38216"
+       height="45.782764"
+       x="30.547674"
+       y="40.161095"
+       ry="0"
+       rx="0"
+       transform="matrix(0.99999974,7.2349845e-4,-0.24899056,0.96850591,0,0)" />
+    <rect
+       style="stroke:none;stroke-width:32.2825"
+       x="31.169914"
+       y="40.467571"
+       width="44.801579"
+       height="23.261898"
+       id="rect21"
+       transform="matrix(0.99999926,0.00121967,-0.25671618,0.96648684,0,0)" />
+    <rect
+       style="stroke:none;stroke-width:32.4161"
+       x="122.31102"
+       y="40.2967"
+       width="44.966946"
+       height="23.368433"
+       id="rect23"
+       transform="matrix(0.99999926,0.0012152,-0.27276466,0.96208079,0,0)" />
+    <rect
+       style="stroke:none;stroke-width:32.4161"
+       x="212.52374"
+       y="40.156326"
+       width="44.966946"
+       height="23.368433"
+       id="rect26"
+       transform="matrix(0.99999926,0.0012152,-0.27276466,0.96208079,0,0)" />
+    <rect
+       style="stroke:none;stroke-width:32.855"
+       x="76.967842"
+       y="63.228119"
+       width="46.105354"
+       height="23.412962"
+       id="rect29"
+       transform="matrix(0.9999993,0.00118519,-0.2791382,0.96025094,0,0)" />
+    <rect
+       style="stroke:none;stroke-width:32.855"
+       x="167.59651"
+       y="62.874573"
+       width="46.105354"
+       height="23.412962"
+       id="rect30"
+       transform="matrix(0.9999993,0.00118519,-0.2791382,0.96025094,0,0)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.28469087,0,-0.15209301,0.31224301,-33.588998,-49.764223)"
+       id="text4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;mix-blend-mode:difference;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.51181;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="361.82422"
+         y="388.43359"
+         id="tspan2">Tunasquare</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       x="84.049187"
+       y="89.052116"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+         x="84.049187"
+         y="89.052116">Affordable Smart Chess Companion</tspan></text>
+  </g>
+</svg>
