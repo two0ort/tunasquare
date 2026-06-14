@@ -35,7 +35,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showguides="false" />
   <defs
      id="defs1">
     <linearGradient
@@ -135,7 +136,7 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.28469087,0,-0.15209301,0.31224301,-33.588998,-49.764223)"
+       transform="matrix(0.28469087,0,-0.15209301,0.31224301,-33.588998,-43.260417)"
        id="text32"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect32);display:inline;mix-blend-mode:difference;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.51181;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="361.82422"
@@ -153,54 +154,54 @@
        id="rect10"
        width="225.38216"
        height="45.782764"
-       x="30.547674"
-       y="40.161095"
+       x="32.21941"
+       y="46.875145"
        ry="0"
        rx="0"
        transform="matrix(0.99999974,7.2349845e-4,-0.24899056,0.96850591,0,0)" />
     <rect
        style="stroke:none;stroke-width:32.2825"
-       x="31.169914"
-       y="40.467571"
+       x="32.896881"
+       y="47.194721"
        width="44.801579"
        height="23.261898"
        id="rect21"
        transform="matrix(0.99999926,0.00121967,-0.25671618,0.96648684,0,0)" />
     <rect
        style="stroke:none;stroke-width:32.4161"
-       x="122.31102"
-       y="40.2967"
+       x="124.15431"
+       y="47.054516"
        width="44.966946"
        height="23.368433"
        id="rect23"
        transform="matrix(0.99999926,0.0012152,-0.27276466,0.96208079,0,0)" />
     <rect
        style="stroke:none;stroke-width:32.4161"
-       x="212.52374"
-       y="40.156326"
+       x="214.36705"
+       y="46.914143"
        width="44.966946"
        height="23.368433"
        id="rect26"
        transform="matrix(0.99999926,0.0012152,-0.27276466,0.96208079,0,0)" />
     <rect
        style="stroke:none;stroke-width:32.855"
-       x="76.967842"
-       y="63.228119"
+       x="78.857811"
+       y="69.998817"
        width="46.105354"
        height="23.412962"
        id="rect29"
        transform="matrix(0.9999993,0.00118519,-0.2791382,0.96025094,0,0)" />
     <rect
        style="stroke:none;stroke-width:32.855"
-       x="167.59651"
-       y="62.874573"
+       x="169.48647"
+       y="69.645271"
        width="46.105354"
        height="23.412962"
        id="rect30"
        transform="matrix(0.9999993,0.00118519,-0.2791382,0.96025094,0,0)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.28469087,0,-0.15209301,0.31224301,-33.588998,-49.764223)"
+       transform="matrix(0.28469087,0,-0.15209301,0.31224301,-33.588998,-43.260417)"
        id="text4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:120px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;mix-blend-mode:difference;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.51181;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="361.82422"
@@ -210,12 +211,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
        x="84.049187"
-       y="89.052116"
+       y="95.555923"
        id="text33"><tspan
          sodipodi:role="line"
          id="tspan32"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
          x="84.049187"
-         y="89.052116">Affordable Smart Chess Companion</tspan></text>
+         y="95.555923">Affordable Smart Chess Companion</tspan></text>
   </g>
 </svg>
